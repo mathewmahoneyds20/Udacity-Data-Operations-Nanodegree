@@ -62,9 +62,7 @@ INTRO TO NON- RELATIONAL DATABASES
 
 #### <u>PROJECT: Create a data model for the Seven Sages Brewing Company</u>
 
-### [Click Here to see my project submission for Seven Sages Brewing!
-
-### [](https://app.powerbi.com/links/Ld9D6ym9bi?ctid=0592ca6b-0602-42a0-b698-5ad334940dcf&pbi_source=linkShare)
+### [Click Here to see my project submission for Seven Sages Brewing!](https://app.powerbi.com/links/Ld9D6ym9bi?ctid=0592ca6b-0602-42a0-b698-5ad334940dcf&pbi_source=linkShare)
 
 
 
@@ -88,9 +86,7 @@ REPORTS AND DAX FOR COMMON REPORTING NEEDS
 
 #### <u>PROJECT: Building a PowerBI report for Waggle</u>
 
-### [Click here to see my final project
-
-### [](https://app.powerbi.com/links/IZI9a13JEs?ctid=0592ca6b-0602-42a0-b698-5ad334940dcf&pbi_source=linkShare&bookmarkGuid=abcbc7ad-0cba-4f88-9c02-b5ee1dbd7224)
+### [Click here to see my final project] (https://app.powerbi.com/links/IZI9a13JEs?ctid=0592ca6b-0602-42a0-b698-5ad334940dcf&pbi_source=linkShare&bookmarkGuid=abcbc7ad-0cba-4f88-9c02-b5ee1dbd7224)
 
 
 
