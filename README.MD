@@ -67,7 +67,7 @@ INTRO TO NON- RELATIONAL DATABASES
 
 Using real sales information from a brewing company the task was to create a sales visual matrix based on several specific requested aggregations that the stakeholder desired.  In addition to creating measures using Dax and power query, the data included some transactions in a different currency since some of the companies were located in Canada.  Which meant there had to be some currency exchange calculations along with the data to get the correct information in the end.
 
-### [Click Here to see my project submission for Seven Sages Brewing!](https://app.powerbi.com/links/Ld9D6ym9bi?ctid=0592ca6b-0602-42a0-b698-5ad334940dcf&pbi_source=linkShare)
+#### [Click Here to see my project submission for Seven Sages Brewing!](https://app.powerbi.com/links/Ld9D6ym9bi?ctid=0592ca6b-0602-42a0-b698-5ad334940dcf&pbi_source=linkShare)
 
 
 
