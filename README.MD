@@ -17,7 +17,9 @@ At some point, nearly every student will get stuck on a new concept or skill, an
 
 #### <u>PROJECT: Deforestation Exploration</u>
 
-##### A PDF report document that includes the following sections:
+##### A PDF report using a dataset with global deforestation data including land size and land alotted to forestry broken down by country.
+I used SQL to complete the report based on the template provided and the results although sad not suprising with how poorly our forest and trees are treated.
+
 [Click here to see the project I did on Deforestation Report in the world](https://github.com/mathewmahoneyds20/Data-Engineer-Nanodegree/blob/main/Section%20Projects/deforestation-mathew-mahoney.pdf)
 
 Subjects Covered: 
@@ -37,12 +39,13 @@ APPENDIX: SQL QUERIES
 
 
 ## 3. Career Projects
-
+Completed but not included in this repository.
 
 
 ## 4. MANAGEMENT OF  RELATIONAL AND NON-RELATIONAL DATABASES
 
 #### <u>PROJECT: Udiddit, A Social News Aggregator</u>
+
 ### [Click here to see the project write up and code!](https://github.com/mathewmahoneyds20/Data-Engineer-Nanodegree/blob/main/Udiddit%20-%20Mathew%20Mahoney%20UDACITY.pdf)
 
 Course contents:
