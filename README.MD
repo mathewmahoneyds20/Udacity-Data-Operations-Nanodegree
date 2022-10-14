@@ -93,7 +93,7 @@ REPORTS AND DAX FOR COMMON REPORTING NEEDS
 
 Waggle is a company that sells devices that monitor activity and health information for either a cat or dog.  It's basically a Fitbit for your pet.  For this project, the stakeholder wanted 3 specific pages, one based on their pet data and creating insights based on that data.  Another page was based on the family and customer data collected and then the main page was to answer two important questions to give insight into the company's product and activity from cats and dogs separately.    This was a fully interactive presentation, with buttons, bookmarks, and multiple graph variations along with a full assortment of search metrics that a user could enter to get more specific data visuals.
 
-#### [Click here to see my final interactive project for Waggle] (https://app.powerbi.com/links/IZI9a13JEs?ctid=0592ca6b-0602-42a0-b698-5ad334940dcf&pbi_source=linkShare&bookmarkGuid=abcbc7ad-0cba-4f88-9c02-b5ee1dbd7224)**
+#### **[Click here to see my final interactive project for Waggle] (https://app.powerbi.com/links/IZI9a13JEs?ctid=0592ca6b-0602-42a0-b698-5ad334940dcf&pbi_source=linkShare&bookmarkGuid=abcbc7ad-0cba-4f88-9c02-b5ee1dbd7224)**
 
 
 
