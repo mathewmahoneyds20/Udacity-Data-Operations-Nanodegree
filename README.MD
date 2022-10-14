@@ -19,11 +19,19 @@ At some point, nearly every student will get stuck on a new concept or skill, an
 
 ##### A PDF report document that includes the following sections:
 
+
+
 GLOBAL SITUATION
+
 REGIONAL OUTLOOK
+
 COUNTRY-LEVEL DETAIL
+
 RECOMMENDATIONS
+
 APPENDIX: SQL QUERIES
+
+
 
 
 
@@ -34,35 +42,69 @@ APPENDIX: SQL QUERIES
 ## 4. MANAGEMENT OF  RELATIONAL AND NON-RELATIONAL DATABASES
 
 #### <u>PROJECT: Udiddit, A Social News Aggregator</u>
-[Click here to see the project write-up](https://github.com/mathewmahoneyds20/Data-Engineer-Nanodegree/blob/main/Udiddit%20-%20Mathew%20Mahoney%20UDACITY.pdf)
+### [Click here to see the project write up and code!]https://github.com/mathewmahoneyds20/Data-Engineer-Nanodegree/blob/main/Udiddit%20-%20Mathew%20Mahoney%20UDACITY.pdf)
+
+Course contents:
 
 NORMALIZING DATA
+
 DATA DEFINITION LANGUAGE (DDL)
+
 DATA MANIPULATION LANGUAGE (DML)
+
 ONSISTENY WITH CONSTRAINTS
+
 PERFORMANE WITH INDEX
+
 INTRO TO NON- RELATIONAL DATABASES
 
 ## 5. PREPARING AND MODELING DATA WITH POWER BI
 
 #### <u>PROJECT: Create a data model for the Seven Sages Brewing Company</u>
 
-[Click Here to see my project submission for Seven Sages Brewing!](https://app.powerbi.com/links/Ld9D6ym9bi?ctid=0592ca6b-0602-42a0-b698-5ad334940dcf&pbi_source=linkShare)
+### [Click Here to see my project submission for Seven Sages Brewing!
+
+### [](https://app.powerbi.com/links/Ld9D6ym9bi?ctid=0592ca6b-0602-42a0-b698-5ad334940dcf&pbi_source=linkShare)
+
+
+
+Course Content:
 
 INTRODUCTION TO PREPARING AND MODELING DATA
+
 KEY CONCEPTS IN DATA MODELING
+
 GETTING YORU DATA AND INITIAL TRANSFORMATIONS
+
 BIGGER TRANSFORMATIONS AND DATE TABLES
+
 RELATIONSHIPS AND RELATIONSHIP-RELATED DAX
+
 REPORTS AND DAX FOR COMMON REPORTING NEEDS
+
+
 
 ## 6. CREATING VISUALIZATIONS WITH POWER BI
 
 #### <u>PROJECT: Building a PowerBI report for Waggle</u>
 
+### [Click here to see my final project
+
+### [](https://app.powerbi.com/links/IZI9a13JEs?ctid=0592ca6b-0602-42a0-b698-5ad334940dcf&pbi_source=linkShare&bookmarkGuid=abcbc7ad-0cba-4f88-9c02-b5ee1dbd7224)
+
+
+
+Course Content:
+
 CREATING VISUALIZATIONS WITH POWER BI
+
 BUILDING COMPELLING DATA VISUALIZATIONS
+
 DESIGNING USER-FRIENDLY REPORTS
+
 CREATING INTERACTIVE REPORTS FOR DATA EXPLORATION
+
 ELEVATING REPORTS WITH ADVANCED REPORT FEATURES
+
+
 
