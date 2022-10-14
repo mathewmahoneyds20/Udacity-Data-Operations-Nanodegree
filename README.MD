@@ -42,7 +42,7 @@ APPENDIX: SQL QUERIES
 ## 4. MANAGEMENT OF  RELATIONAL AND NON-RELATIONAL DATABASES
 
 #### <u>PROJECT: Udiddit, A Social News Aggregator</u>
-### [Click here to see the project write up and code!]https://github.com/mathewmahoneyds20/Data-Engineer-Nanodegree/blob/main/Udiddit%20-%20Mathew%20Mahoney%20UDACITY.pdf)
+### [Click here to see the project write up and code!](https://github.com/mathewmahoneyds20/Data-Engineer-Nanodegree/blob/main/Udiddit%20-%20Mathew%20Mahoney%20UDACITY.pdf)
 
 Course contents:
 
